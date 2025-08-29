@@ -73,7 +73,6 @@ Se ha demostrado cómo, con recursos limitados y vulnerabilidades comunes, un at
 
 **Nombre:** KaoXx (Jesús Andrés Altozano)
 **Máster:** Ciberseguridad (UNIR)  
-**Empresa:** ISDEFE
 
 ---
 
